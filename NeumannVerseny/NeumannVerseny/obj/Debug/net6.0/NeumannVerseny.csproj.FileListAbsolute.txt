@@ -1,0 +1,15 @@
+C:\Users\barizs.marton.daniel\source\repos\NeumannVerseny\NeumannVerseny\bin\Debug\net6.0\NeumannVerseny.exe
+C:\Users\barizs.marton.daniel\source\repos\NeumannVerseny\NeumannVerseny\bin\Debug\net6.0\NeumannVerseny.deps.json
+C:\Users\barizs.marton.daniel\source\repos\NeumannVerseny\NeumannVerseny\bin\Debug\net6.0\NeumannVerseny.runtimeconfig.json
+C:\Users\barizs.marton.daniel\source\repos\NeumannVerseny\NeumannVerseny\bin\Debug\net6.0\NeumannVerseny.dll
+C:\Users\barizs.marton.daniel\source\repos\NeumannVerseny\NeumannVerseny\bin\Debug\net6.0\NeumannVerseny.pdb
+C:\Users\barizs.marton.daniel\source\repos\NeumannVerseny\NeumannVerseny\obj\Debug\net6.0\NeumannVerseny.csproj.AssemblyReference.cache
+C:\Users\barizs.marton.daniel\source\repos\NeumannVerseny\NeumannVerseny\obj\Debug\net6.0\NeumannVerseny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barizs.marton.daniel\source\repos\NeumannVerseny\NeumannVerseny\obj\Debug\net6.0\NeumannVerseny.AssemblyInfoInputs.cache
+C:\Users\barizs.marton.daniel\source\repos\NeumannVerseny\NeumannVerseny\obj\Debug\net6.0\NeumannVerseny.AssemblyInfo.cs
+C:\Users\barizs.marton.daniel\source\repos\NeumannVerseny\NeumannVerseny\obj\Debug\net6.0\NeumannVerseny.csproj.CoreCompileInputs.cache
+C:\Users\barizs.marton.daniel\source\repos\NeumannVerseny\NeumannVerseny\obj\Debug\net6.0\NeumannVerseny.dll
+C:\Users\barizs.marton.daniel\source\repos\NeumannVerseny\NeumannVerseny\obj\Debug\net6.0\refint\NeumannVerseny.dll
+C:\Users\barizs.marton.daniel\source\repos\NeumannVerseny\NeumannVerseny\obj\Debug\net6.0\NeumannVerseny.pdb
+C:\Users\barizs.marton.daniel\source\repos\NeumannVerseny\NeumannVerseny\obj\Debug\net6.0\NeumannVerseny.genruntimeconfig.cache
+C:\Users\barizs.marton.daniel\source\repos\NeumannVerseny\NeumannVerseny\obj\Debug\net6.0\ref\NeumannVerseny.dll
